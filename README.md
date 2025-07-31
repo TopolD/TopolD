@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3>
+## Hi there 👋 
 <p>I'm a backend developer specializing in Python.</p>
 <p>In my free time, I enjoy solving LeetCode problems and reading technical books.</p>
 ---
