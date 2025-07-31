@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I'm a backend developer specializing in Python.
-## In my free time, I enjoy solving LeetCode problems and reading technical books.
+ I'm a backend developer specializing in Python.
+ In my free time, I enjoy solving LeetCode problems and reading technical books.
 ---
 
 📎My Links: 
